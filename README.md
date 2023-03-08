@@ -26,8 +26,8 @@ Once the application is running, users can access it through a web browser. The 
 - Generate reports and export data in various formats
 
 ## Contributors
-- [Your Name](link-to-your-github-profile) - Backend Developer
-- [Contributor Name](link-to-contributor-github-profile) - Frontend Developer
+- [Nischal Bhandari](https://github.com/NischalDragneel-77) - Backend Developer
+- [Ankit Khatiwada,Bishal Joshi,Nabin Ghimire](link-to-contributor-github-profile) - Frontend Developer
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
